@@ -1,0 +1,66 @@
+{
+  box-sizing: border-box;
+}
+body {
+ background-image: url(https://www.thesun.co.uk/wp-content/uploads/2019/03/NINTCHDBPICT000421815177.jpg);
+  backdrop-filter:blur(2px);
+ background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin:0;
+}
+
+
+#wrapper {
+  margin:auto;
+  width:85%;
+  background-image: 
+linear-gradient(to bottom, rgb(135, 11, 37, 0.8) 12%,  rgb(120, 6, 29,0.8) 25%, rgb(9,33,64,0.8) 80%);
+background-color: #091q2140;
+color: #faebd7 ;
+padding: 10px 20px;  
+  font-family: Georgia, serif;
+}
+ h2 {
+   text-align: center;
+   padding: 10px 20px;
+   font-family: system-ui;
+}
+
+header{
+position:center;
+background:rgba(135, 11, 37, 0.80);
+width: 100%;
+font-size: 120%;
+ font-weight: bold;
+text-align: center;
+  color:#faebd7 ;  
+}
+
+.right {
+float: right;
+padding: 2px 20px;
+}
+
+ footer{text-align: center;
+  font-weight:bold;;
+color:white ;font-weight:bold;
+border-bottom: 2px solid #3A508F;
+  border-top: 2px solid #3A508F;
+   font-family: system-ui;
+}
+
+nav a:link{color:#faebd7}
+  nav a { 
+ display:inline-block;
+color: #faebd7;
+font-size: 1.50em; 
+text-decoration: none;
+} 
+nav a { 
+ display:inline-block;
+  margin-left:50px;
+  marging-left:10px;
+color: #faebd7;
+font-size: 1.50em; 
+} 
