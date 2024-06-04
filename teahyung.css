@@ -49,6 +49,25 @@ border-bottom: 2px solid #3A508F;
   border-top: 2px solid #3A508F;
    font-family: system-ui;
 }
+  nav ul { 
+  list-style-type: none;
+  width:650px;
+
+
+}
+nav li { 
+ display: inline-block;
+width: 200px;
+padding-top:10px;
+text-align:center;
+}
+
+nav a { 
+ display:inline-block;
+color: #faebd7;
+font-size: 1.50em; 
+text-decoration: none;
+} 
 
 nav a:link{color:#faebd7}
   nav a { 
