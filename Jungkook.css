@@ -66,3 +66,22 @@ nav a {
 color: #faebd7;
 font-size: 1.50em; 
 } 
+
+ nav ul { 
+  list-style-type: none;
+  width:650px;
+
+}
+nav li { 
+ display: inline-block;
+width: 200px;
+padding-top:10px;
+text-align:center;
+}
+
+nav a { 
+ display:inline-block;
+color: #faebd7;
+font-size: 1.50em; 
+text-decoration: none;
+} 
