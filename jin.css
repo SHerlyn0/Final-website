@@ -67,3 +67,18 @@ color: #faebd7;
 font-size: 1.50em; 
 text-decoration: none;
 } 
+
+nav a:link{color:#faebd7}
+  nav a { 
+ display:inline-block;
+color: #faebd7;
+font-size: 1.50em; 
+text-decoration: none;
+} 
+nav a { 
+ display:inline-block;
+  margin-left:50px;
+  marging-left:10px;
+color: #faebd7;
+font-size: 1.50em; 
+} 
